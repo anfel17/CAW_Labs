@@ -110,3 +110,17 @@ neighboring elements.  Necessary to avoid giving ids to the boundary divs
 	height: 150px;
 	width: 98px;
 }
+
+#progressContainer {
+	position: relative;
+	height: 20px;
+	width: 300px;
+    background-color: #eee;
+	margin: 1em auto;
+}
+
+#progressBar {
+    height: 100%;
+    background-color: #4CAF50;
+    width: 0;
+}
